@@ -1,2 +1,2 @@
 print ('hellow World')
-print ('Amontep')
+print ('Amontep Design')
